@@ -1,0 +1,4 @@
+To find a process, listening on a particular port on Ubuntu (eg. the below command will give the id of hte process listening on port 80)
+
+sudo lsof -t -i:80
+
